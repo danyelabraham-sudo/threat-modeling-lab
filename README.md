@@ -52,6 +52,7 @@ This repository contains threat modeling exercises focused on identifying, analy
 
 ## Skills Demonstrated
 
+
 - Threat Modeling
 - Risk Analysis
 - Secure SDLC
