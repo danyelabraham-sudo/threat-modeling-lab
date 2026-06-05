@@ -42,3 +42,23 @@ Exposure of sensitive customer information due to misconfigurations or insecure 
 
 ## Lessons Learned
 Threat modeling helps identify security risks early in the software development lifecycle and allows organizations to implement appropriate controls before deployment.
+
+# Threat Modeling Lab
+
+This repository contains threat modeling exercises focused on identifying, analyzing, and mitigating security risks in modern applications.
+
+## Projects
+
+### SaaS Application Threat Model
+
+- STRIDE methodology
+- Risk assessment
+- Security controls
+- Mitigation planning
+
+## Skills Demonstrated
+
+- Threat Modeling
+- Risk Analysis
+- Secure SDLC
+- Security Documentation
