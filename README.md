@@ -41,5 +41,4 @@ Exposure of sensitive customer information due to misconfigurations or insecure 
 | Information Disclosure | High |
 
 ## Lessons Learned
-
 Threat modeling helps identify security risks early in the software development lifecycle and allows organizations to implement appropriate controls before deployment.
