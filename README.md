@@ -1,9 +1,3 @@
-# threat-modeling-lab
-Threat modeling exercises using STRIDE methodology
-# SaaS Application Threat Model
-
-## Overview
-
 This threat model evaluates a fictional Software-as-a-Service (SaaS) platform used to manage customer accounts and business data.
 
 ## Assets
